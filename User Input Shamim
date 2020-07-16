@@ -1,0 +1,18 @@
+namem = input ("Enter your name :")
+namef =input ("Enter your father name :")
+namemo =input ("Enter your mother name :")
+age = input ("Your age :")
+school = input ("Your School :")
+gpa = input ("Input your GPA: ")
+
+
+print ("About your self")
+print ("----------------------")
+print ("Name : " +namem)
+print ("Father name: " +namef)
+print ("Mother name: " + namemo)
+print ("Age : " + age)
+print ("School: " +school)
+print ("GPA: " +gpa)
+print ("_______________")
+print ("Tumi ekta Brillient Student and you have tha ability to do success")
